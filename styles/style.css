@@ -53,7 +53,7 @@
 }
 
 .header__link:hover {
- color: black;
+  color: black;
 }
 .header__main-illustration {
   position: absolute;
@@ -224,7 +224,7 @@
 }
 
 .kaufman__triangle {
-  background: url('../images/kaufman-triangle.svg');
+  background: url("../images/kaufman-triangle.svg");
   position: absolute;
   right: -210px;
   top: 0;
@@ -272,8 +272,8 @@
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
-align-items: start;
-justify-content: space-between;
+  align-items: start;
+  justify-content: space-between;
 }
 .footer__author {
   line-height: 25px;
