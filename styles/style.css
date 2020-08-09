@@ -141,6 +141,7 @@
 
 .table {
   width: 1100px;
+  padding-left: 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -225,6 +226,7 @@
 
 .kaufman__triangle {
   background: url("../images/kaufman-triangle.svg");
+  background-size: cover;
   position: absolute;
   right: -210px;
   top: 0;
