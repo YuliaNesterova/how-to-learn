@@ -5,6 +5,6 @@
   margin: 0;
 }
 
-.table__text:not(:last-of-type) {
+.table__text:not(:last-child) {
   margin-bottom: 20px;
 }
